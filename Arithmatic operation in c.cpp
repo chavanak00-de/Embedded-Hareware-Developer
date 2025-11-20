@@ -6,7 +6,7 @@
 int main(){
 	int a,b,sum;
 	printf("addition of two number");
-	scanf("%d %d",&a, &b);
+	scanf("%d %d",&a, &b);nn
 	sum=a+b;
 	printf("sum %d",sum);
 	return 0;
@@ -50,6 +50,7 @@ int a,b,mul;
 
                    
  
+
 
 
 
